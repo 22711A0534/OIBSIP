@@ -1,0 +1,5 @@
+Segment,Customer_Count,Avg_Recency,Avg_Frequency,Avg_Monetary
+At-Risk / Inactive Customers,1067,248.08,1.55,478.85
+Loyal High-Value Customers,204,15.5,22.33,12690.5
+Regular Customers,3054,43.7,3.68,1353.63
+VIP / High-Value Customers,13,7.38,82.54,127187.96
