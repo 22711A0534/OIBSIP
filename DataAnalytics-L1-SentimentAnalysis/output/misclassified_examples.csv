@@ -1,0 +1,6 @@
+Text,Actual,Predicted,Possible Reason
+tried,Positive,Negative,Ambiguous wording or limited context
+microsoft shuts controversial botnet necurs izvyei,Neutral,Negative,Sarcasm or informal language
+best stream months big appreciation sports people even came flying hit follow also big appreciation even,Positive,Neutral,Mixed sentiment within the tweet
+excellent find hold entire parties using zoom google meet gotomeeting whatever microsoft bing selling sign politicians lot learn rest,Neutral,Positive,Short text with insufficient contextual information
+unfortunately vlad lost body thanks listening,Neutral,Negative,Words may have different sentiment meanings depending on context
