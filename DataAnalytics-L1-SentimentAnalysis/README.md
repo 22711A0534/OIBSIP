@@ -205,11 +205,11 @@ Check the generated results in the output folder.
 
 Add the project demonstration video link here after uploading it:
 
-[Watch the Project Demo](YOUR_VIDEO_LINK)
+https://drive.google.com/file/d/1UiJtBk3nnHafTvdwWVnMOBkQq4THh_n7/view?usp=sharing
 
 ✅ Conclusion
 
-This project demonstrates an end-to-end sentiment analysis workflow using Natural Language Processing and Machine Learning. Twitter text data was loaded, analysed, preprocessed, converted into TF-IDF features, and classified using Multinomial Naive Bayes and Logistic Regression. Model evaluation, confusion matrix analysis, word clouds, and error analysis were also performed to understand the classification results.
+This project demonstrates an end-to-end sentiment analysis workflow using Natural Language Processing and Machine Learning. Twitter text data was loaded, analyzed, preprocessed, converted into TF-IDF features, and classified using Multinomial Naive Bayes and Logistic Regression. Model evaluation, confusion matrix analysis, word clouds, and error analysis were also performed to understand the classification results.
 
 👩‍💻 Author
 
