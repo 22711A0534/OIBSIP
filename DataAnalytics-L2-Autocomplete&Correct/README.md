@@ -33,7 +33,7 @@ The main objectives of this project are to:
 
 ## 📊 Dataset
 
-**Dataset:** Email Text Dataset
+**Dataset:** Email Text Dataset — [Download Dataset] (https://drive.google.com/file/d/1iVj12XBcUDtHaRVIVD1Rr8nFBdDBLBi5/view?usp=sharing)
 
 **Dataset file:** `emails.csv`
 
